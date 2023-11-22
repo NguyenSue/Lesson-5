@@ -1,0 +1,39 @@
+Tìm 1 vài đối tượng trong mảng: dùng filter
+
+function FinMinPositiveNumber(Arr) {
+ const positivenumbers = arr.filter(num=>num>0)
+ return positivenumbers.length === 0 ?
+
+//condition '?' <action 1> ':'
+
+Spread Operator
+const a ={a:1,b:{c:1}};
+const b ={}
+const c ={...a}
+c['b']['c']=1000
+
+console.log("c",c)
+console.log("a",a)
+
+by, holl, offline trong js
+
+optional chaining
+ mdn web docs
+
+
+javascript visualizer 900:
+ bất đồng bộ task queue và microtask queue (xử lý trước)
+ call stack sẽ giải quyết 
+API
+
+Promise?
+setinterval: cứ 1 khoảng tg là sẽ chạy
+await?
+
+call API --> return promise
+
+console.table
+
+
+
+
